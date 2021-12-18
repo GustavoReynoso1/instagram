@@ -9,3 +9,4 @@ git config --global user.email "gustavo.reynoso@outlook.es"
 git config --global user.password "Github2825*"
 git commit -m "Agregando al repositorio first Commit"
 git push origin main
+git clone https://github.com/GustavoReynoso1/instagram.git
