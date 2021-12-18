@@ -1,0 +1,11 @@
+git init
+git branch M- main
+git remote add origin https://github.com/GustavoReynoso1/instagram.git
+git branch -M main
+git add .
+git status
+git commit
+git config --global user.email "gustavo.reynoso@outlook.es"
+git config --global user.password "Github2825*"
+git commit -m "Agregando al repositorio first Commit"
+git push origin main
