@@ -1,0 +1,83 @@
+.border{
+    border: 1px solid rgb(207, 207, 207);
+}
+.bg-primary{
+    background-color: rgb(40, 116, 202);
+}
+.bg-secondary{
+    background-color: rgb(236, 229, 229);;
+}
+.bg-light{
+    background-color: rgb(207, 207, 207);
+}
+.bg-danger{
+    background-color: red;
+}
+.bg-success{
+    background-color: rgb(24, 170, 24);
+}
+.bg-warning{
+    background-color: rgb(230, 230, 11);
+}
+.text-primary{
+    color: rgb(40, 116, 202);
+}
+.text-secondary{
+    color: rgb(216, 216, 216);;
+}
+.text-light{
+    color: rgb(207, 207, 207);
+}
+.text-danger{
+    color: red;
+}
+.text-success{
+    color: rgb(24, 170, 24);
+}
+.text-warning{
+   color: rgb(230, 230, 11);
+}
+.bold{
+    font-weight: bold;
+}
+
+.btn{
+    padding: 8px 15px;
+    border:none; 
+    color:rgb(90, 90, 90);
+    border-radius: 3px;
+    font-size: 14px;
+    font-weight: bold;
+    cursor: pointer; 
+}
+.btn-primary{
+    background-color: rgb(40, 116, 202);
+    color:white;
+}
+.btn-secondary{
+    background-color: rgb(216, 216, 216);
+    color:rgb(65, 65, 65);
+
+}
+.btn-danger{
+    background-color: red;
+    color:white;
+}
+.btn-success{
+    background-color: rgb(24, 170, 24);
+    color:white;
+}
+.btn-warning{
+    background-color: rgb(230, 230, 11);
+    color:white;
+}
+.circle{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 1px solid rgb(207, 207, 207);
+}
+.d-flex{
+    display:flex;
+}
+ 
